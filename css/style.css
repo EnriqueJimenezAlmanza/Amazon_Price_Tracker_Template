@@ -463,3 +463,9 @@ a {
 .div__4--btn {
     width: 100%;
 }
+
+@media (max-width: 600px) {
+    .hero__title {
+        font-size: 1rem;
+    }
+}
